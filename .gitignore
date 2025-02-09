@@ -1,2 +1,4 @@
 *.env
 ./venv/
+./bench_legacy/
+./gpqa_main/
